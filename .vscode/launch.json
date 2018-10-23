@@ -2,6 +2,86 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - outOf",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "outOf",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - longest",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "longest",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - stringSwap",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "stringSwap",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - occur",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "occur",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - removeCH",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "removeCH",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - duplicates",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "duplicates",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - unique",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "unique",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CSC3003S",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "CSC3003S",
+            "args": ""
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - anagram",
             "request": "launch",
             "cwd": "${workspaceFolder}",
